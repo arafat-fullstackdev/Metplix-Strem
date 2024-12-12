@@ -1,2 +1,2 @@
 ﻿# Metplix-Strem
-domain  ; https://dimitrafarabi.github.io/Metplix-Strem/
+domain : https://arafat-fullstackdev.github.io/Metplix-Strem/
